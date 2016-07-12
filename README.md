@@ -1,5 +1,5 @@
 # AngularJS-frame
-AngularJS example
-'index' file in '/public/index.html' 
-default path is '/start'
+AngularJS example <br/>
+'index' file in '/public/index.html' <br/>
+default path is '/start'<br/>
 more functionality '/builder'
